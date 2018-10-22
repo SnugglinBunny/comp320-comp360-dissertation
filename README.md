@@ -5,3 +5,6 @@ This is the base repository for the following assignments:
 
 
 # Using Dialogue with Game Characters to Measure Self-Beliefs and Attitudes in Educational Games
+
+Consent form:
+https://docs.google.com/forms/d/e/1FAIpQLSdFOgkRm3OFCE4JcJUIle6gMP2d9ShnY4W2VqzABLYWHdb5Mw/viewform
