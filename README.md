@@ -8,3 +8,6 @@ This is the base repository for the following assignments:
 
 Consent form:
 https://docs.google.com/forms/d/e/1FAIpQLSdFOgkRm3OFCE4JcJUIle6gMP2d9ShnY4W2VqzABLYWHdb5Mw/viewform
+
+
+https://www.soscisurvey.de/cs-ed-research-2018/
