@@ -1,0 +1,117 @@
+Presentation Feedback
+Left4Dead uses similar lighting-based techniques to guide the player through the level, which you could do leverage to help motivate your work
+Could narrow the scope of the term ‘decision’. What types of decisions? 
+Alexander - The Timeless Way of Building
+Architects use this all the time to ensure people stay safe ~ there are also useful references on level design (“environmental narrative”)
+Seems to be looking at incentivising? Extrinsic vs intrinsic 
+There are a lot of different approaches to manipulating users - need to narrow in on one 
+Proteus effect might be worth looking at ~ it’s applicable to VR more so than games, but is often leveraged in games research
+Gap ~ moral decision making
+Can the game environment
+Will this be double-blind randomised experiment?
+Are you implying that different demographics will be affected differently? How does this affect your sample size?
+Ethics?
+
+Peer Review Feedback
+
+Peer1:
+Abstract - *exists, enjoyability? 
+
+Introduction       - a High density of references, could try spreading them out a bit? 
+
+
+
+Literature Review -  Use of "I" a lot, don't think you're meant to 
+
+                                - I remember Michael saying don't over-use quotes, use only for special cases.
+
+ Methodology       - You talk in the methodology if you have already done the experiment
+
+                                    if this is a  template from somewhere consider customising it 
+
+                                    also the values stated don't make sense for the power analysis 
+
+References         - At the bottom of your references the columns start to overlap and it breaks 
+
+Is a W.I.P but looks good :) 
+
+Peer2:
+There are a few amendments to the ethics form needed, such as the title of the researcher being lord.
+
+However, there is no covering letter included, so this would go down as a fail.
+
+
+
+A lot more detail is needed in the method section as well as the Design of Data Collection section. However, this is a good start with a good use of images to further back up your points. 
+
+There seems to be a lack of discussion, including this would allow you to reach a higher grade.
+
+Peer3:
+Obviously the proposal isn't finished but the quality looks very good so far, nice use of images to show what you are talking about in the different sections.
+
+Although the large gaps in the formatting do make the writing flow very awkwardly and some of the images are skewed off center and such, just some general reformatting will fix this.
+
+Also avoid using personal motivations such as "I will be looking at" refer to it more from a neutral perspective. 
+
+Some of your newer sources aren't displaying correctly and are hard to read, this needs rectifying. 
+
+Ethics form looks very good, can't see any glaring faults and covers all the bases, needs the covering letter and such, as well as the consent form to be accepted but nearly there.
+
+Ed & Mike:
+Avoid citing Wikipedia -- follow up the sources cited therein instead
+"Back in 20xx" -- avoid, sounds too conversational
+Lit review does a good job of integrating sources into a coherent story...
+... but many more sources are needed for a more comprehensive review
+Section II.C in particular is very anecdotal and needs greater discussion and reference to specific academic sources. Is this topic even relevant? You're blurring the lines between in-game morality and real-world morality here -- doing so requires solid support from the literature.
+Morality in games is a rich area of research, on which you haven't really touched in your lit review. E.g.:
+Zagal, J. (2009). Ethically notable videogames: Moral dilemmas and gameplay. In Proceedings of the 2009 DiGRA Conference
+Sicart, M. (2013). Moral dilemmas in computer games. Design Issues, 29(3):28–37.
+Heron, M. J. and Belford, P. H. (2014). Do you feel like a hero yet? Externalized morality in video games. Journal of Games Criticism, 1(2)
+... and others
+Might be worth talking to Joan Casas-Roma in the MetaMakers -- he is currently researching ethical and moral choices in video games
+What is your research question?
+Your hypothesis is not really a hypothesis -- it isn't making a statistically testable or falsifiable claim
+Methodology is lacking in detail. How specifically will you achieve positive/negative visual styles -- is this supported by prior research? What will the questionnaire measure?
+Ethics form appears to be incomplete, and e.g. not clear how collection of personal data is needed to achieve the goals of the project
+
+
+
+
+Only 3 pages in length, which behind where we expect you to be at this stage.
+
+The work is presented poorly, with poorly positioned and sized figures as well as odd references. This needs tidying up prior to submission.
+
+Literature Review
+
+Good range of academic references, but few of them. Greater breadth is needed. We're expecting many more papers/articles for the literature review. You need to do a somewhat comprehensive review of your field.
+
+Avoid non-academic sources like explorable, wikipedia, etc. Go to the original source material.
+
+Depth of Insight
+
+There is a reasonable depth of insight into priming, with some associated examples. However, the psychology of priming hasn't been sufficiently explored. A section on the foundations of this topic, and a section moral choices on would map this out to a greater extent.
+
+Quality of Research Question
+
+The research question requires its own section. Remember that your question should be justified. 
+
+The hypothesis should be articulated in a more formal manner. Ideally, tied to the statistical analysis technique that you propose to use.
+
+Proposed Methodology
+
+The methodology is not adequately described. It looks like an A|B test, but key design decisions (e.g. random allocation to two groups) is not addressed. 
+
+You need to describe your research method with substantially greater precision. You also need to justify your methodology by making reference to the relevant literature. See, for example:
+
+Cook, Thomas D., and Donald Thomas Campbell. Quasi-experimentation: Design and analysis for field settings. Vol. 3. Chicago: Rand McNally, 1979.
+
+You may be interested in this paper as an example of the study you might want to emulate:
+
+https://dl.acm.org/citation.cfm?id=2892281
+
+Ethics
+
+There are spelling mistakes in the application. Please address these.
+
+Clearly incomplete. You need to finish your ethics application.
+
