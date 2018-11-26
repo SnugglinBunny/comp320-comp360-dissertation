@@ -1,3 +1,32 @@
+Lecturer Feedback
+
+- Change wikipedia and other non-verifiable citations
+- More sources, aim for 60
+- Complete Ethics Form
+1. add screenshot of google form
+2. Not clear how collection of personal data is needed to achieve the goals of the project
+3. Spelling mistakes
+- Fix layout errors and make the paper more visually appealing
+
+- Section II-C needs more discussion, add more academic sources
+- Change hypothesis using mikes notes, should be tied to the statistical analysis technique I propose
+- How specifically will I achieve a positive and negative environment / visual styles. research exsisting environments in games
+- Why is there a questionaire
+- Talk more about the pyscology of priming
+1. Foundations of Priming
+2. Moral choices
+- Morality in games is huge and needs looking in to:
+1. Zagal, J. (2009). Ethically notable videogames: Moral dilemmas and gameplay. In Proceedings of the 2009 DiGRA Conference
+2. Sicart, M. (2013). Moral dilemmas in computer games. Design Issues, 29(3):28–37.
+3. Heron, M. J. and Belford, P. H. (2014). Do you feel like a hero yet? Externalized morality in video games. Journal of Games Criticism, 1(2)
+- Research question section which justifies the question
+- More depth needed in methodology e.g. random allocation to two groups and other steps taken
+- You need to describe your research method with substantially greater precision. You also need to justify your methodology by making reference to the relevant literature. See, for example:
+1. Cook, Thomas D., and Donald Thomas Campbell. Quasi-experimentation: Design and analysis for field settings. Vol. 3. Chicago: Rand McNally, 1979.
+- You may be interested in this paper as an example of the study you might want to emulate:
+1. https://dl.acm.org/citation.cfm?id=2892281
+
+
 Presentation Feedback
 Left4Dead uses similar lighting-based techniques to guide the player through the level, which you could do leverage to help motivate your work
 Could narrow the scope of the term ‘decision’. What types of decisions? 
